@@ -1,0 +1,22 @@
+{
+  "name": "ibook",
+  "version": "1.0.0",
+  "description": "这是gitbook 制作的电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liujingjingg/ibook.git"
+  },
+  "author": "liujingjing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liujingjingg/ibook/issues"
+  },
+  "homepage": "https://github.com/liujingjingg/ibook#readme",
+  "devDependencies": {
+    "gitbook-cli":"^2.3.2"
+  }
+}
